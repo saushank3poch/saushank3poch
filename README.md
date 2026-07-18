@@ -1,6 +1,6 @@
-# Hi, I'm Saurabh 👋
+# Hi, I'm saushank 👋
 
-📍 **Mumbai** | 💎 **Co-Founder, [Diamond Hands](https://diamondhand.gg)** | 🤖 **Building with agents**
+📍 **Dubai** | 💎 **Co-Founder, [Diamond Hands](https://diamondhand.gg)** | 🤖 **Building with agents**
 
 Operators-first crypto shop: liquid markets, early-stage teams, and internal tooling that moves at machine speed.
 
@@ -63,7 +63,7 @@ Most of my shipping lives in private Diamond Hands repos. Public-safe snapshot o
 ## Connect
 
 [![X](https://img.shields.io/badge/-@saushank_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/saushank_)
-[![LinkedIn](https://img.shields.io/badge/-Saurabh_Shankar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankarsaurabh1)
+[![LinkedIn](https://img.shields.io/badge/-saushank-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankarsaurabh1)
 [![Diamond Hands](https://img.shields.io/badge/-diamondhand.gg-111111?style=flat-square&logo=ethereum&logoColor=white)](https://diamondhand.gg)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saushank3poch)
 
