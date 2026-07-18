@@ -11,29 +11,29 @@ Operators-first crypto shop: liquid markets, early-stage teams, and internal too
 ![Crypto](https://img.shields.io/badge/-Crypto-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![Agents](https://img.shields.io/badge/-AI_Agents-121212?style=flat-square&logo=openai&logoColor=white)
 
-## Diamond Hands (private)
+## Diamond Hands — Trading & research
 
-Most of my shipping lives in private repos. Links work when you're signed in as me:
+- **[BTPulseTrader](https://github.com/DiamondHandsQuant/BTPulseTrader)** — Quant strategy engine
+- **[quantfun](https://github.com/DiamondHandsQuant/quantfun)** — PulseTrader
+- **[dexter](https://github.com/DiamondHandsQuant/dexter)** — Nansen backtester engine
+- **[polymarket](https://github.com/DiamondHandsQuant/polymarket)** — Polymarket trading strategies
+- **[yield-farming](https://github.com/DiamondHandsQuant/yield-farming)** — Yield farming bots
 
-### Trading systems & research
-- **[PT-TOFU](https://github.com/saushank3poch/PT-TOFU)** — Pulse Trader / TOFU trading stack and operator workflows
+## Agentic products
 
-### Agents & product
-- **[cxo-chatbot](https://github.com/saushank3poch/cxo-chatbot)** — internal LLM assistant for operator Q&A
-- **[constantseeker](https://github.com/saushank3poch/constantseeker)** — Readwise → Supabase → hybrid retrieval chat
-- **[personal-agent-workspace](https://github.com/saushank3poch/personal-agent-workspace)** — agent workflows and personal agent tooling
-- **[ai-course](https://github.com/saushank3poch/ai-course)** — AI / agent course material and experiments
+- **[fanmarkets](https://github.com/DiamondHandsQuant/fanmarkets)** — Fan Markets (WIP) — prediction markets
+- **[hyper-orchestrator](https://github.com/DiamondHandsQuant/hyper-orchestrator)** — Custom harness across Codex, Claude, and Cursor
+- **[twitter-reply-workflow](https://github.com/DiamondHandsQuant/twitter-reply-workflow)** — Twitter post agents
 
-> More Diamond Hands systems (QuantFun, Hyper Orchestrator, Polymarket tooling, Pulse Trader analytics, etc.) live in private company repos — ping me if you want a walkthrough.
+## Personal
 
-## Public projects
+- **[personal-agent-workspace](https://github.com/saushank3poch/personal-agent-workspace)** — Personal agent stack for daily work (Codex / Claude Code)
+- **[ai-course](https://github.com/saushank3poch/ai-course)** — AI Chief of Staff for everyone (WIP)
+- **[obsidian-qmd-search](https://github.com/DiamondHandsQuant/obsidian-qmd-search)** — QMD + Obsidian search for knowledge management
 
-| Project | What it is |
-| --- | --- |
-| [spam-the-spammer](https://github.com/saushank3poch/spam-the-spammer) | Claude Code plugin that fights spam callers via Twitter, email & Instagram |
-| [yield-farming](https://github.com/saushank3poch/yield-farming) | Yield / DeFi experiments |
-| [astro](https://github.com/saushank3poch/astro) | TypeScript playground |
-| [openclaw](https://github.com/saushank3poch/openclaw) | Fork — personal AI assistant (the lobster way 🦞) |
+## Public
+
+- **[spam-the-spammer](https://github.com/saushank3poch/spam-the-spammer)** — Fun public project: fight spam callers with automated public shaming
 
 ## What I'm doing
 
