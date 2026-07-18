@@ -80,3 +80,4 @@ Most of my shipping lives in private Diamond Hands repos. Public-safe snapshot o
 ### Philosophy
 
 > Ship the system that makes the next trade, decision, or GM easier — then tighten it in production.
+
