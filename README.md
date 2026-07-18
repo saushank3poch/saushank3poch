@@ -2,7 +2,7 @@
 
 📍 **Dubai** | 💎 **Co-Founder, [Diamond Hands](https://diamondhand.gg)** | 🤖 **Building with agents**
 
-I build trading systems and agent tools at Diamond Hands.
+Building quant trading systems and agentic workflows
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
