@@ -11,35 +11,20 @@ Operators-first crypto shop: liquid markets, early-stage teams, and internal too
 ![Crypto](https://img.shields.io/badge/-Crypto-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 ![Agents](https://img.shields.io/badge/-AI_Agents-121212?style=flat-square&logo=openai&logoColor=white)
 
-## Start Here
-
-- 💎 **[Diamond Hands](https://diamondhand.gg)** — where every day starts with a GM and ends with alpha
-- 📢 **[spam-the-spammer](https://github.com/saushank3poch/spam-the-spammer)** — fight spam callers with automated public shaming (Claude Code plugin)
-- 🌾 **[yield-farming](https://github.com/saushank3poch/yield-farming)** — DeFi yield experiments
-- 🪐 **[astro](https://github.com/saushank3poch/astro)** — personal / product experiments in TypeScript
-
 ## Diamond Hands (private)
 
-Most of my shipping lives in private Diamond Hands repos. Public-safe snapshot of what I build there:
+Most of my shipping lives in private repos. Links work when you're signed in as me:
 
 ### Trading systems & research
-- **Pulse Trader** — live trading stack, analytics, and operator workflows
-- **QuantFun** — strategy research, backtests, and execution tooling
-- **Hyper Orchestrator** — multi-agent / multi-venue orchestration for trading workflows
-- **Polymarket / prediction markets** — research, sizing, and market tooling
-- **Screener & signal stack** — Supertrend, LuxAlgo-style screens, range / mean-reversion work
+- **[PT-TOFU](https://github.com/saushank3poch/PT-TOFU)** — Pulse Trader / TOFU trading stack and operator workflows
 
 ### Agents & product
-- **AI Pilot / Discord & social agents** — agent workflows for research, marketing, and ops
-- **CXO Chatbot** — internal LLM assistant for operator Q&A
-- **ConstantSeeker** — Readwise → Supabase → hybrid retrieval chat
-- **FanMarket / agent marketing** — GTM and agent-assisted content experiments
+- **[cxo-chatbot](https://github.com/saushank3poch/cxo-chatbot)** — internal LLM assistant for operator Q&A
+- **[constantseeker](https://github.com/saushank3poch/constantseeker)** — Readwise → Supabase → hybrid retrieval chat
+- **[personal-agent-workspace](https://github.com/saushank3poch/personal-agent-workspace)** — agent workflows and personal agent tooling
+- **[ai-course](https://github.com/saushank3poch/ai-course)** — AI / agent course material and experiments
 
-### Capital & ops
-- **Diamond Hands Syndicates / investments** — operator-led capital into liquid markets and early teams
-- **Fireblocks & custody workflows** — secure operational plumbing
-
-> Want details or a walkthrough of a specific system? Ping me — happy to share what’s shareable.
+> More Diamond Hands systems (QuantFun, Hyper Orchestrator, Polymarket tooling, Pulse Trader analytics, etc.) live in private company repos — ping me if you want a walkthrough.
 
 ## Public projects
 
@@ -58,7 +43,7 @@ Most of my shipping lives in private Diamond Hands repos. Public-safe snapshot o
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=saushank3poch&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saushank3poch&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
 ## Connect
 
@@ -80,4 +65,3 @@ Most of my shipping lives in private Diamond Hands repos. Public-safe snapshot o
 ### Philosophy
 
 > Ship the system that makes the next trade, decision, or GM easier — then tighten it in production.
-
