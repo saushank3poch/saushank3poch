@@ -43,7 +43,7 @@ Most of my shipping lives in private repos. Links work when you're signed in as 
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saushank3poch&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+![GitHub Contribution Graph](./assets/contributions.svg)
 
 ## Connect
 
