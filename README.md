@@ -18,6 +18,7 @@ Building quant trading systems and agentic workflows
 - **[dexter](https://github.com/DiamondHandsQuant/dexter)** — Nansen backtester engine
 - **[polymarket](https://github.com/DiamondHandsQuant/polymarket)** — Polymarket trading strategies
 - **[yield-farming](https://github.com/DiamondHandsQuant/yield-farming)** — Yield farming bots
+- **[HLTradingViewTest](https://github.com/DiamondHandsQuant/HLTradingViewTest)** — TradingView charts + Hyperliquid (public)
 
 ## Agentic products
 
