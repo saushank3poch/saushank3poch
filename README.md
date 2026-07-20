@@ -33,6 +33,7 @@ Building quant trading systems and agentic workflows
 
 ## Public
 
+- **[perq](https://github.com/saushank3poch/perq)** — Private credit-card benefits tracker. Fork it, add your cards + country, and use Sites to turn issuer pages into a ranked view of offers, rewards, lounge access and memberships. Public repo shares card/source pages only; your wallet and offers stay in your private copy.
 - **[spam-the-spammer](https://github.com/saushank3poch/spam-the-spammer)** — Fun public project: fight spam callers with automated public shaming
 
 ## What I'm doing
