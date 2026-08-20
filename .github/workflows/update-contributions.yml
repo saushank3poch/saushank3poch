@@ -24,7 +24,16 @@ jobs:
         env:
           # Must be a classic PAT (repo scope) so private contributions are included.
           GH_TOKEN: ${{ secrets.CONTRIBUTIONS_PAT }}
-        run: python3 scripts/generate_contributions.py
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::CONTRIBUTIONS_PAT secret is missing. Add a classic PAT with repo scope."
+            exit 1
+          fi
+          if ! gh api user --jq .login >/dev/null; then
+            echo "::error::CONTRIBUTIONS_PAT is invalid or expired. Create a new classic PAT (repo scope) and update the secret."
+            exit 1
+          fi
+          python3 scripts/generate_contributions.py
 
       - name: Commit and push if changed
         run: |
