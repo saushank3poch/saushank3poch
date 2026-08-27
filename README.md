@@ -21,6 +21,7 @@ Building quant trading systems and agentic workflows
 
 ## Agentic products
 
+- **[Trading-OS](https://github.com/saushank3poch/Trading-OS)** — Trading OS running on Grok bot
 - **[fanmarkets](https://github.com/DiamondHandsQuant/fanmarkets)** — Fan Markets (WIP) — prediction markets
 - **[hyper-orchestrator](https://github.com/DiamondHandsQuant/hyper-orchestrator)** — Custom harness across Codex, Claude, and Cursor
 - **[twitter-reply-workflow](https://github.com/DiamondHandsQuant/twitter-reply-workflow)** — Twitter post agents
